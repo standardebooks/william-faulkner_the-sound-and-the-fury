@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+		<ignore>
+			<code>y-014</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+		<ignore>
+			<code>y-003</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+		<ignore>
+			<code>y-009</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+		<ignore>
+			<code>y-014</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>12.21 is a figure, not a time.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

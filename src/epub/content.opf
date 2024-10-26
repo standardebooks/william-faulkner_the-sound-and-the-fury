@@ -60,7 +60,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=201410L9</dc:source>
 		<dc:source>https://archive.org/details/soundfury0000will_y1s9</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Em spaces are used to represent the extra spaces in the scans at twenty-two locations in the second chapter. A 1995 Vintage Classics printing of the text with copyright 1929 was used to make three editorial spelling/punctuation changes in the second chapter presumed to be printing errors in the first edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sound_and_the_Fury</meta>

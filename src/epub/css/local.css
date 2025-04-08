@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-img{
+#chapter-4 img{
 	max-height: 1em;
 	vertical-align: middle;
 }

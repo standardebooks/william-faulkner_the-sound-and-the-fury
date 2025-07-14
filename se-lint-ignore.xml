@@ -27,11 +27,21 @@
 			<code>y-014</code>
 			<reason>Prose style choice.</reason>
 		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Prose style choice.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-3.xhtml">
 		<ignore>
 			<code>t-010</code>
 			<reason>12.21 is a figure, not a time.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Prose style choice.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

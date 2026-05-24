@@ -55,6 +55,9 @@
 		<meta id="collection-2" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">34</meta>
+		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">57</meta>
 		<dc:description id="description">A once-prominent Mississippi family decays and disintegrates over the first thirty years of the twentieth century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Sound and the Fury&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-faulkner"&gt;William Faulkner’s&lt;/a&gt; most celebrated novels, and a landmark of American literature. Famous for its non-chronological structure and experimental style, the novel focuses on the once-prominent Compson family, descendants of planter aristocrats who have declined in both social standing and material wealth. As white landowners in the fictional county of Yoknapatawpha in Mississippi, they continue to employ an African-American family to serve them. Each of the Compson parents has withdrawn from responsibility for their children, so the matriarch of the servant family, Dilsey, effectively raises their three sons and daughter.&lt;/p&gt;

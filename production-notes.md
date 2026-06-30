@@ -1,0 +1,1 @@
+Em spaces are used to represent the extra spaces in the scans at twenty-two locations in the second chapter. A 1995 Vintage Classics printing of the text with copyright 1929 was used to make three editorial spelling/punctuation changes in the second chapter presumed to be printing errors in the first edition. All italics are `<i>` due to the unique prose style.

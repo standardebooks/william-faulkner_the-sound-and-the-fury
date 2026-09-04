@@ -32,11 +32,11 @@
 		<dc:title id="title">The Sound and the Fury</dc:title>
 		<meta property="file-as" refines="#title">Sound and the Fury, The</meta>
 		<dc:subject id="subject-1">Siblings</dc:subject>
-		<dc:subject id="subject-2">Illegitimate children -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Illegitimate children--Fiction</dc:subject>
 		<dc:subject id="subject-3">African American women cooks</dc:subject>
-		<dc:subject id="subject-4">People with mental disabilities -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Aristocracy (Social class) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Mississippi -- Fiction</dc:subject>
+		<dc:subject id="subject-4">People with mental disabilities--Fiction</dc:subject>
+		<dc:subject id="subject-5">Aristocracy (Social class)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Mississippi--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85017225</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
